@@ -11,7 +11,7 @@ Vi benytter datasættet: [Steamgames Store](https://store.steampowered.com/searc
 Dette github repository er tilrettet opgavestillinger, så udspecifieret her: [Uge7 Opgave](https://docs.google.com/document/d/1ojSiBWwLo4-Rc7763vx6aVEYdNluATOMja9qqk4dodU/edit#) 
 
 
-!(https://cdn.iconscout.com/icon/free/png-256/steam-2288551-1933796.png)
+![](https://cdn.iconscout.com/icon/free/png-256/steam-2288551-1933796.png)
 
 #### Opgave 1 &nbsp;&nbsp;&nbsp; ![](https://via.placeholder.com/15/41FF2D/000000?text=+)
 1. Go to Steam Web Page (dataset link)
@@ -29,6 +29,7 @@ Dette github repository er tilrettet opgavestillinger, så udspecifieret her: [U
 6. find the oldest game
 
 **Bonus (If you have the time and energy)**
+
 7. find the game with the highest approval rating (In the div with class="col search_reviewscore responsive_secondrow")
 
 
